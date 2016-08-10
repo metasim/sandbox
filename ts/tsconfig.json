@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "sourceMap": true
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "project"
+    ]
+}
